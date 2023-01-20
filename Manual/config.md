@@ -1,0 +1,9 @@
+- config.env မှ စာများကူးပြီး [gist](https://gist.github.com/) ဖွင့် paste လုပ်ပါ။ (anas repo, wzml repo, rclone mltb repo ဆိုင်ရာစာကိုသာကူးပါ)
+- file name နေရာတွင် **config.env** ဟုပေးပါ။
+- paste ချထားသော vars များမှ **#မဖြစ်မနေဖြည့်ရမည်များ** တွင်ဖြည့်ပါ။ 
+- ကျန် vars များလဲ ဖြည့်လိုလျှင်ဖြည့်ပါ
+- upstream repo နေရာတွင် [Anas17 repo](https://github.com/anasty17/mirror-leech-telegram-bot), [Wzml repo](https://github.com/weebzone/wzml), [RcloneMltb repo](https://github.com/Sam-Max/rclone-mirror-leech-telegram-bot) စသဖြင့် လိုသော repolink ဖြည့်ပါ
+- ဘာမှမဖြည့်လျှင် anasty17 repo default သုံးပါမည်။
+- ဖြည့်စရာပြီးလျှင် **create secret gist** အစိမ်းရောင်ကိုနှိပ်ပါ
+- ပြီးလျှင် ဘယ်ဖက်အပေါ်မှ raw ကို နှိပ်ပါ
+- address bar မှ link ကို ကူးပါ
