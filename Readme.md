@@ -20,6 +20,10 @@
 
 - [Deploy on koyeb](https://github.com/dr007bot/Allin1mltb/blob/manual/Manual/koyeb.md)
 
+## Heroku Paid acc ရှိသူများ Deploy Guide
+
+- [Heroku_Deploy With Secrets](https://github.com/dr007bot/Allin1mltb/blob/manual/Manual/HerokuDeploy.md)
+
 
 
 
