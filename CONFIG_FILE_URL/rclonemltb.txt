@@ -58,7 +58,7 @@ MEGA_API_KEY = ""
 MEGA_EMAIL_ID = ""
 MEGA_PASSWORD = ""
 # QBITTORRENT
-QB_BASE_URL = "" 
+QB_BASE_URL = ""       # ⭐မဖြစ်မနေဖြည့်ရပါမယ်
 QB_SERVER_PORT = "" 
 WEB_PINCODE = "" 
 # TORRENT SEARCH
